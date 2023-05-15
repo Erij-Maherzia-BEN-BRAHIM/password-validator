@@ -1,5 +1,5 @@
 # About the password validator
-There is 4 levels of strength are defined: 
+There are 4 levels of strength: 
 - Vulnerable
 - Moderate
 - Robust
