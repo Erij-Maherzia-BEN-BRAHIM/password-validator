@@ -9,6 +9,9 @@ function App() {
   const [strength, setStrength] = useState(null);
 
   useEffect(() => {
+    if (enteredPassword.length === 0) {
+      setStrength(null);
+    }
     if (enteredPassword.length >= 1 && enteredPassword.length < 8) {
       setStrength("vulnerable");
     }
