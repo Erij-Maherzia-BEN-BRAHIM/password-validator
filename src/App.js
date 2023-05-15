@@ -12,7 +12,7 @@ function App() {
     if (enteredPassword.length === 0) {
       setStrength(null);
     }
-    if (enteredPassword.length >= 1 && enteredPassword.length < 8) {
+    if (enteredPassword.length >= 1) {
       setStrength("vulnerable");
     }
     if (enteredPassword.length >= 8 && /\d/.test(enteredPassword)) {
