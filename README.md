@@ -4,6 +4,7 @@ There are 4 levels of strength:
 - Moderate
 - Robust
 - Secure
+
 ![image](https://github.com/Erij-Maherzia-BEN-BRAHIM/password-validator/assets/101833103/a0ee7ebb-1e44-477c-af16-7e60a49b9fc2)
 
 ## Vulnerable
