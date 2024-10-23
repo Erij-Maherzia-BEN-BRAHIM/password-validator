@@ -15,7 +15,7 @@ The password length should be equal or bigger to 1
 The password length should be equal or bigger to 8 and should contain at least one digit
 ![image](https://github.com/Erij-Maherzia-BEN-BRAHIM/password-validator/assets/101833103/2a0245a2-2684-47af-a255-12bbb3e8c089)
 
-## Moderate
+## Robust
 The password length should be equal or bigger to 8, should contain at least one digit and at least one capital letter
 ![image](https://github.com/Erij-Maherzia-BEN-BRAHIM/password-validator/assets/101833103/7defb506-b97f-4f20-a37a-ef1b62a23b67)
 
